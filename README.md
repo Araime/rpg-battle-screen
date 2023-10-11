@@ -95,20 +95,20 @@ pyinstaller main.spec
 
 ## Credits
 
-knight img - Sven
-warrior img - Clembod
-bandit img - Sven
-icons img, cursors img - Shikashi
-bgs img - nidhoggn
-skeleton img - Jesse M
-witch img, fly-eye img, fire-worm img - Luiz Melo
-battle_theme music - Juhani Junkala - Epic Boss Battle [Seamlessly Looping].wav
-victory_fanfare music - Heavy_ConceptB.wav cynicmusic
-defeat_theme music - "The Fallen" Jonathan Shaw
-heal sound, sword swing sounds, death sounds - artisticdude
-knight death sound - remaxim
-heal animation - para
-magic sounds - p0ss
+knight img - Sven  
+warrior img - Clembod  
+bandit img - Sven  
+icons img, cursors img - Shikashi  
+bgs img - nidhoggn  
+skeleton img - Jesse M  
+witch img, fly-eye img, fire-worm img - Luiz Melo  
+battle_theme music - Juhani Junkala - Epic Boss Battle [Seamlessly Looping].wav  
+victory_fanfare music - Heavy_ConceptB.wav cynicmusic  
+defeat_theme music - "The Fallen" Jonathan Shaw  
+heal sound, sword swing sounds, death sounds - artisticdude  
+knight death sound - remaxim  
+heal animation - para  
+magic sounds - p0ss  
 
 ## Цель проекта
 
