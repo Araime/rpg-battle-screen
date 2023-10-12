@@ -476,7 +476,7 @@ if __name__ == '__main__':
         elif current_fighter == 2:
             draw_text(str(player2.potions), FONT, gold, 350, screen_height - bottom_panel + 30)
 
-        # draw wich fighter turn
+        # draw which fighter turn
         if current_fighter == 1 and player1.alive:
             draw_text(player1.name, DMG_FONT, green, 350, 390)
         elif current_fighter == 2 and player2.alive:
